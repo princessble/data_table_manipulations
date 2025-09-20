@@ -1,0 +1,6 @@
+{
+  "Name": "Data Table Manipulations",
+  "ProjectType": "Process",
+  "Description": "Table 1: Students ( Student ID, Student Name) Table 2: Overdue books(Student ID, Book Name) Join them on Student ID - get (Student ID, Student Name, Student ID, Book Name) Remove the duplicate student ID column that came from the second table. Sort by student Name (A-Z). Convert the final table to text and show it in a Message Box",
+  "MainFile": "Main.xaml"
+}
